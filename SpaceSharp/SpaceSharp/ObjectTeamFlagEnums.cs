@@ -1,7 +1,7 @@
 ﻿using System;
 
 // Token: 0x02000020 RID: 32
-public enum GEnum1
+public enum ObjectTeamFlagEnums
 {
 	// Token: 0x04000088 RID: 136
 	CHAOS,
